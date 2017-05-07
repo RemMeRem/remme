@@ -1,10 +1,10 @@
 #ifndef USER_H
 #define USER_H
 
-
 #include<string>
 #include<vector>
 #include "Objective.h"
+
 
 class User
 {
